@@ -1,0 +1,75 @@
+# 📊 Financial Analysis Assignment – Smriti
+
+## 📌 Project Overview
+
+This project is a **Financial Analysis (FA) assignment** designed to evaluate key real estate investment metrics and project performance.
+It covers **income, expenses, cash flow, returns, and profitability metrics**, making it useful for understanding the fundamentals of property investment evaluation.
+
+---
+
+## 📂 File Structure
+
+* **FA ASSIGNMENT – Smriti.xlsx** → Main analysis file containing:
+
+  * Input assumptions
+  * Income & expense breakdown
+  * Cash flow calculations
+  * Key return metrics (ROI, IRR, Equity Multiple, DSCR, etc.)
+  * Summary tables for quick insights
+
+---
+
+## 📑 Project Background
+
+The analysis simulates a **real estate investment scenario** and calculates:
+
+* **Net Operating Income (NOI)**
+* **Cash Flow Before & After Debt**
+* **Return on Equity (ROE)**
+* **Equity Multiple**
+* **Debt Service Coverage Ratio (DSCR)**
+* **Internal Rate of Return (IRR)**
+
+These metrics are commonly used by **investors, analysts, and developers** to decide if an investment is worth pursuing.
+
+---
+
+## 📊 Data Sources
+
+* **Assumed financial data** for the property (not real-world figures)
+* Hypothetical rent growth and expense inflation rates
+* Financing assumptions for loan amount, interest rate, and tenure
+
+---
+
+## 🛠 Tools Used
+
+* **Microsoft Excel** – Main tool for calculations & modeling
+* Built-in **Excel formulas** for financial metrics
+* **Basic financial modeling** concepts
+
+---
+
+## 🚀 How to Use
+
+1. **Download** the Excel file from this repository.
+2. Open the file in **Microsoft Excel** (or compatible spreadsheet software).
+3. Navigate to the **Assumptions** section to review or modify input values.
+4. Check the **Results/Summary** section for automatically updated metrics.
+5. Adjust variables like rent growth, expenses, or loan terms to perform **scenario analysis**.
+
+---
+
+## 📈 Key Insights from the Model
+
+* Shows the effect of **leverage (debt)** on returns.
+* Highlights how **NOI, cash flows, and IRR** change with different assumptions.
+* Helps in **decision-making** for property investments.
+
+---
+
+## 📜 License
+
+This project is for **educational purposes only** and should not be used as financial advice.
+
+
